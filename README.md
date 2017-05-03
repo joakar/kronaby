@@ -51,7 +51,7 @@ Subscribe to watch events
 
 Subscribe to watch events
 
-##Device info
+## Device info
 
 ### .getDeviceName(callback)
 
@@ -63,7 +63,7 @@ Subscribe to watch events
 
 ### .getManufacturerName(callback)
 
-##Functions
+## Functions
 
 ### .writeAlarms(alarms, callback)
 
