@@ -15,8 +15,8 @@ $ npm install --save kronaby
 const Kronaby = require('kronaby');
 
 Kronaby.discover(function(watch) {
-	animaWatch.subscribe('button',function(data){
-		console.log('button is pressed', data);
+	watch.subscribe('button',function(data){
+		console.log('button', data[0], 'is pressed');
 	});
 
 	watch.connect(function(){
