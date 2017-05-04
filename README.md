@@ -47,9 +47,6 @@ Disconnect a Kronaby watch.
 
 Subscribe to watch events
 
-### .subscribe(type, callback)
-
-Subscribe to watch events
 
 ## Device info
 
